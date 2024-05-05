@@ -28,7 +28,6 @@ Its function is equivalent to windows.h of the Windows operating system, which i
 
 ### CHARACTER ARRAYS FOR STRINGS
 Arrays of strings are created to store the design of each digit. The design is split into three rows such that each row can be accessed and printed separately whenever it is required.
-Each row(top,middle and bottom) are thus strings.
 Array tr is defined and consists of the strings of top rows of each digit from 0 to 9.
 Array mr is defined and consists of the strings of middle rows of each digit from 0 to 9.
 Array br is defined and consists of the strings of bottom rows of each digit from 0 to 9.
